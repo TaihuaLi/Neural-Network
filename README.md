@@ -9,5 +9,5 @@ Textbook:
 
 Note: Code is written in [Matlab](https://www.mathworks.com/products/matlab/) 
 
-![alt text](http://www.cdm.depaul.edu/ipd/PublishingImages/hero-data-science-for-business-@2x.jpg)
+![alt text](http://www.cdm.depaul.edu/academics/PublishingImages/heroMSPA.jpg)
 
